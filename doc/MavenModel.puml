@@ -1,0 +1,10 @@
+@startuml
+[*]-->news
+news-->api
+news-->common
+news-->model
+news-->utils
+api-->model
+common-->utils
+utils-->model
+@enduml

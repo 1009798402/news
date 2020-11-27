@@ -1,0 +1,5 @@
+# Project exclude paths
+/news-apis/target/
+/news-common/target/
+/news-model/target/
+/news-utils/target/
